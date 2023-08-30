@@ -1,4 +1,4 @@
-import {Text, View} from 'react-native';
+import {Text, View, StyleSheet} from 'react-native';
 
 // * Di bawah komen ini adalah area komponen
 

@@ -1,5 +1,5 @@
 import {Component} from 'react';
-import {Text, View, Image} from 'react-native';
+import {Text, View, Image, ScrollView} from 'react-native';
 import macbook from './src/macbook.jpg';
 
 const Produk = () => {
